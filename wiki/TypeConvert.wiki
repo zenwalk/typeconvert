@@ -6,21 +6,11 @@ TypeConvert is the ArcGIS extension allows you to convert one type feature class
 <br>
 <img src="https://sites.google.com/a/geoblogspot.com/typeconvert/Home/tctoolsall-full.jpg"><br>
 <br>
-If you have problems by installation then see <a href="http://applications.geoblogspot.com/deployment--requirements">this page</a>.<br>
-To install the geoprocessing tools:<br>
-1. Open ArcCatalog and search folder of Typeconvert. By default it is
-C:\Program Files\GISCenter\Typeconvert\<br>
-2. You see toolbox Typeconvert. Right click on toolbox and select "Add to Toolbox". The Typeconvert toolbox stored in Toolbox.<br>
-<br>
 Flash presentations:<br>
 <a href="http://www.dataplus.ru/Soft/PGI/typeconvertgraph.htm" target="_blank">How to use</a><br>
 <a href="http://www.dataplus.ru/Soft/PGI/mytoolboxinstall.htm" target="_blank">Install geoprocessing tools</a><br>
 
 <br>
-Versions:<br>
-ArcGIS 9.2 and Net 2.0 <a href="http://xbbster.googlepages.com/typeconvert2.0.zip">Download</a><br>
-ArcGIS 9.1 and Net 2.0 <a href="http://bbs.keyhole.com/ubb/download.php?Number=838186">Download</a><br>
-ArcGIS 9.1 and Net 1.1 <a href="http://bbs.keyhole.com/ubb/download.php?Number=838186">Download</a><br>
 <b>Functionality</b><br>
 <ul><li><b>Polygon-Polyline-Points</b><br>
 Convert one type feature class to another type feature class
@@ -61,3 +51,9 @@ Opens the window of the information on the current version of the program.
 It's very important for polyline feature class creatation. You should specify group number and object number in group for each object(feature) in point feature class.
 <li>TypeConvert works with current selected layer. If more than one layer is selected, it works with the first selected layer.
 <li>TypeConvert works with multipart objects and MZ geometries.
+<br><br><br>
+If you have problems by installation then see <a href="http://applications.geoblogspot.com/deployment--requirements">this page</a>.<br>
+To install the geoprocessing tools:<br>
+1. Open ArcCatalog and search folder of Typeconvert. By default it is
+C:\Program Files\GISCenter\Typeconvert\<br>
+2. You see toolbox Typeconvert. Right click on toolbox and select "Add to Toolbox". The Typeconvert toolbox stored in Toolbox.
