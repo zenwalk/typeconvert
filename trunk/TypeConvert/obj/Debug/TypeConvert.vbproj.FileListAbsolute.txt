@@ -1,0 +1,7 @@
+D:\temp\vb.net\Typeconvert\TypeConvert\bin\TypeConvert.dll
+D:\temp\vb.net\Typeconvert\TypeConvert\bin\TypeConvert.pdb
+D:\temp\vb.net\Typeconvert\TypeConvert\bin\TypeConvert.xml
+D:\temp\vb.net\Typeconvert\TypeConvert\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\vb.net\Typeconvert\TypeConvert\obj\Debug\TypeConvert.dll
+D:\temp\vb.net\Typeconvert\TypeConvert\obj\Debug\TypeConvert.xml
+D:\temp\vb.net\Typeconvert\TypeConvert\obj\Debug\TypeConvert.pdb
