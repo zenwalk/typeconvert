@@ -1,4 +1,5 @@
 #summary В разработке
+#sidebar Navigation
 
 = Introduction =
 
